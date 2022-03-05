@@ -22,7 +22,7 @@
             "description": "Avtomatik göndəriş üçün kanal və ya qrup İD-si"
         },
         "SESSION": {
-            "description": "Telethon Sessiya @WebStringBot"
+            "description": "Telethon Sessiya əlavə edin @WebStringBot"
         }
     },
     "buildpacks": [
