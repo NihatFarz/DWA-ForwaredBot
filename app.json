@@ -1,0 +1,33 @@
+{
+    "name": "telegram-auto_forward",
+    "description": "Mesajı bir TG kanalından/qrupundan digərinə ötürmək üçün",
+    "keywords": [
+      "telegram",
+      "forward",
+      "auto-forward",
+      "send"
+    ],
+    "repository": "https://github.com/NihatFarz/DWA-ForwaredBot",
+    "env": {
+        "APP_ID": {
+            "description": "Sizin API_ID https://my.telegram.org/apps"
+        },
+        "API_HASH": {
+            "description": "Sizin API_HASH https://my.telegram.org/apps"
+        },
+        "FROM_CHANNEL": {
+            "description": "Avtomatik göndərmə üçün kanal İD-lərini əlavə edin, birdən çox Kanal əlavə etmək üçün boşluqdan istifadə edin"
+        },
+        "TO_CHANNEL": {
+            "description": "Avtomatik göndəriş üçün kanal və ya qrup İD-si"
+        },
+        "SESSION": {
+            "description": "Telethon Sessiya @WebStringBot"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
