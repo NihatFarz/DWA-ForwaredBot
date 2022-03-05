@@ -9,7 +9,8 @@
  Bot özəl olaraq <a href="https://telegram.me/DarkWebAzerbaijan"><img src="https://img.shields.io/badge/DARKWEBAZERBAIJAN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />  üçün yazılmışdır.
 
  <br>
- <br>  
+ <br> 
+ Sadəcə Forklanmasına İcazə verilir Heç bir Halda kodların kopyalanmasına icazə yoxdur.Fork edərək kodlarda dəyişiklik edə bilərsiniz.
  <br>
  <br> 
   
